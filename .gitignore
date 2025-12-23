@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Excel temporary files
+~$*.xlsx
+
+# Local environment
+.env
+venv/

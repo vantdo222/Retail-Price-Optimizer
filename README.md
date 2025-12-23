@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Solver](https://img.shields.io/badge/Solver-Gurobi-red)
-![Status](https://img.shields.io/badge/Status-Portfolio_Project-green)
 
 ## 📖 Overview
 This project is an algorithmic pricing engine designed to maximize retail profit margins for a seasonal product catalog. 

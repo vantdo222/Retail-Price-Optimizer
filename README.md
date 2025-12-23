@@ -44,7 +44,7 @@ To ensure practical viability, the model enforces:
 │   └── .keep                         
 │
 ├── src/
-│   └── scheduler.py                  
+│   └── code.py                  
 │
 ├── .gitignore
 ├── README.md

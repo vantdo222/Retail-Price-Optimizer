@@ -1,0 +1,5 @@
+pandas
+gurobipy
+openpyxl
+numpy
+matplotlib

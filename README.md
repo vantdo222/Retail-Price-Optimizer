@@ -36,11 +36,19 @@ To ensure practical viability, the model enforces:
 
 ## 📂 Repository Structure
 ```text
+│
 ├── data/
-│   └── Walmart_Seasonal_Large.xlsx   # Input data (Costs, Demand parameters, Competitors)
-├── src/
-│   └── scheduler.py                  # Main optimization logic
+│   └── Walmart_Seasonal_Large.xlsx   <-- Your input file
+│
 ├── output/
-│   └── optimized_prices.xlsx         # Generated results (New prices, Lift analysis)
-├── requirements.txt                  # Dependencies
-└── README.md                         # Project documentation
+│   └── .keep                         <-- Empty file to ensure folder exists on Git
+│
+├── src/
+│   └── scheduler.py                  <-- Your main script
+│
+├── images/                           <-- (Optional) Save the graphs we discussed here
+│   └── sensitivity_analysis.png
+│
+├── .gitignore
+├── README.md
+└── requirements.txt

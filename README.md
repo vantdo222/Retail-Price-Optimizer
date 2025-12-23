@@ -38,16 +38,13 @@ To ensure practical viability, the model enforces:
 ```text
 │
 ├── data/
-│   └── Walmart_Seasonal_Large.xlsx   <-- Your input file
+│   └── Walmart_Seasonal_Large.xlsx  
 │
 ├── output/
-│   └── .keep                         <-- Empty file to ensure folder exists on Git
+│   └── .keep                         
 │
 ├── src/
-│   └── scheduler.py                  <-- Your main script
-│
-├── images/                           <-- (Optional) Save the graphs we discussed here
-│   └── sensitivity_analysis.png
+│   └── scheduler.py                  
 │
 ├── .gitignore
 ├── README.md
